@@ -1,7 +1,3 @@
 # UI
-User Interface for Immunization Tracker website
+User Interface for Immunizations Tracker website
 
-Team:
-Jason Clemons
-Arvin Agas
-Enkhbilguun Tserendorj
