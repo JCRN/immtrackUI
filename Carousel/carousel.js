@@ -20,4 +20,4 @@ class Carousel {
 let index = 0
 let carousel = new Carousel(document.querySelector('.carousel'))
 
-setInterval(() => carousel.autoPlay(), 15000)
+setInterval(() => carousel.autoPlay(), 5000)
