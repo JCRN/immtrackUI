@@ -510,9 +510,6 @@ header #google_translate_element .goog-te-gadget-icon {
   flex-direction: column;
 }
 footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
   color: gray;
   padding: 20px 0 20px 0;
   text-align: center;
